@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    系统默认颜色包括:
+    BLACK   黑色              GREEN       绿色
+    DKGTAY  深灰              BLUE        蓝色
+    GRAY    灰色              YELLOW      黄色
+    LTGRAY  浅灰              CYAN        青色
+    WHITE   白色              MAGENTA     玫瑰红
+    RED     红色              TRANSPARENT 透明
+
+!-->
+<resources>
+    <color name="write" >#ffffff</color>
+    <color name="light_grey">#dedede</color>
+</resources>
